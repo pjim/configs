@@ -1,4 +1,4 @@
-remove lock = Caps_Lock
+remove Lock = Caps_Lock
 keysym Escape = Caps_Lock
 keysym Caps_Lock = Escape
-Add Lock = CapS_Lock1
+add Lock = Caps_Lock

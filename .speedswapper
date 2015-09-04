@@ -1,1 +1,4 @@
-/home/pjim/.speedswapper
+remove lock = Caps_Lock
+keysym Escape = Caps_Lock
+keysym Caps_Lock = Escape
+Add Lock = CapS_Lock1
